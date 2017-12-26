@@ -1,0 +1,8 @@
+prefix=/home/student/CarND/ros/install
+
+Name: gadgets
+Description: Description of gadgets
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/student/CarND/ros/install/lib 
+Requires: rospy styx_msgs
